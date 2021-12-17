@@ -1,2 +1,2 @@
-# Enhanced-Flight-Search-mechanism-using-Google-QPX-Express-API
+# Enhanced-Flight-Search-mechanism
 -Group Project for CSCI749-Topics in Languages and Tools (Scripting - bash, awk, and perl) -Wrote a perl script which sends JSON request (source, destination, date, number of adults, etc) to QPX Express API and fetches JSON response (flights' details). -Bash and awk scripts are used to process response and to present data in readable format -Main features include - proximity of other airports, filtering flights based on user needs (specific arrival and departure times, layover time, airport exclusion, etc)
